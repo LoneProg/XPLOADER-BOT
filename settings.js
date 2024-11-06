@@ -41,16 +41,16 @@ global.ownernumber = process.env.OWNER_NUMBER || '2348142778000'
 //=================================================//
 
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || '₿Scorpio₿' 
 //Type your name here
 
 //=================================================//
 
-global.websitex = process.env.YT_LINK || "https://youtube.com/@heyits_tylor"
+global.websitex = process.env.YT_LINK || ""
 
 //=================================================//
 
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11"
+global.wagc = process.env.GL_PUSH || ""
 
 //=================================================//
 
@@ -72,16 +72,16 @@ global.author = process.env.AUTHOR_NAME || "Bot"
 
 //=================================================//
 
-global.creator = process.env.GL_DEVS || "254754783972@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "2348142778000@s.whatsapp.net"
 
 //=================================================//
 
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || '~'
 //Set your desired prefix
 
 //=================================================//
 
-global.premium = process.env.PREMIUM_VIP || ["254796180105"] 
+global.premium = process.env.PREMIUM_VIP || ["2348142778000"] 
 //Premium User
 
 //=================================================//
@@ -124,7 +124,7 @@ global.anticall = process.env.ANTI_CALL || false
 
 //=================================================//
 
-global.autoswview = process.env.AUTO_STATUS_SEEN || false 
+global.autoswview = process.env.AUTO_STATUS_SEEN || true 
 //Set true to enable and false to disable auto status view
 
 //=================================================//
