@@ -35,7 +35,7 @@ global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁�
 
 //=================================================//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
+global.ownernumber = process.env.OWNER_NUMBER || '2348142778000'
 //Type your number here
 
 //=================================================//
