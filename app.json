@@ -10,12 +10,12 @@
     "OWNER_NUMBER": {
       "description": "Enter your number here",
       "required": true,
-      "value": "254796180105"
+      "value": "2348142778000"
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
       "required": true,
-      "value": "Tylor"
+      "value": "₿Scorpio₿"
     },
      "HKEY": {
       "description": "Enter your Heroku API key here , Get one from at https://dashboard.heroku.com/account",
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "Enter your desired prefix here",
       "required": true,
-      "value": "."
+      "value": "~"
     },
     "BOT_NAME": {
       "description": "Enter Bot name here",
@@ -50,7 +50,7 @@
      "PREMIUM_VIP": {
       "description": "Enter numbers to be premium users [ Each Saperated By Comma ]",
       "required": false,
-      "value": "254754783972,254796180105"
+      "value": "2348142778000"
      },
     "WELCOME_MSG": {
       "description": "Set true to enable and false to disable welcome/left messages in groups",
@@ -75,7 +75,7 @@
      "AUTO_BLOCK": {
       "description": "Enter a country code to be auto blocked",
       "required": false,
-      "value": "212"
+      "value": ""
      }
     },
     "buildpacks": [
